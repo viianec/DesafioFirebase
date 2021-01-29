@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698680593723",
+    "firebase_url": "https://desafiofirebase-bd284-default-rtdb.firebaseio.com",
+    "project_id": "desafiofirebase-bd284",
+    "storage_bucket": "desafiofirebase-bd284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698680593723:android:321520839400560aa77b1e",
+        "android_client_info": {
+          "package_name": "com.example.desafiofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698680593723-gdu2he5ktlq0jjnrh3jcvc3n6qmkh7s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desafiofirebase",
+            "certificate_hash": "a461a03b5547c85b5bfd9d14e41d3a1738e725b9"
+          }
+        },
+        {
+          "client_id": "698680593723-v1710q383f959mhv805i6usufnue514s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdD137e0RvTNjbOOAKAeXI678lyEr3KzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698680593723-v1710q383f959mhv805i6usufnue514s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
